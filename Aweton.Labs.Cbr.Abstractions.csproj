@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PackageId>Aweton.Labs.Cbr.Abstractions</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Maxim Volkov</Authors>
+    <Company>Proximatics Ltd</Company>
+    <Title>Interfaces to load currency rates</Title>
+    <PackageDescription>Contains the set of i-faces used by proxymatics to load currcny rates</PackageDescription>
+    <Description>
+     git
+    </Description>
+    <Copyright>(C) Maxim Volkov 2022</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
