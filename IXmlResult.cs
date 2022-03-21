@@ -7,4 +7,3 @@ public interface IXmlResult
   DateTime ADate { get; }
   IList<IXmlRow> Rates { get; }
 }
-

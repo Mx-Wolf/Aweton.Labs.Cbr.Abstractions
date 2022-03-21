@@ -5,4 +5,3 @@ public interface IXmlRow
   string VchCode { get; }
   double Vcurs { get; }
 }
-

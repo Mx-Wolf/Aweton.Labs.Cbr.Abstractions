@@ -4,4 +4,3 @@ public interface ICbrLoader
 {
   Task<IXmlResult> LoadFor(DateTime date);
 }
-
