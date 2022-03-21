@@ -12,9 +12,11 @@
     <Title>Interfaces to load currency rates</Title>
     <PackageDescription>Contains the set of i-faces used by proxymatics to load currcny rates</PackageDescription>
     <Description>
-     git
+      This library suports internal processies in the tenant apps
     </Description>
     <Copyright>(C) Maxim Volkov 2022</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/Mx-Wolf/Aweton.Labs.Cbr.Abstractions.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 </Project>
